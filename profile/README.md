@@ -46,16 +46,19 @@ We prioritize quality, verifiability, and long-term architecture over speed.
 
 ## Vision in Motion
 
+## Vision in Motion
+
 <p align="center">
-  <a href="https://youtu.be/CB6RwU04rbE" target="_blank">
-    <img src="https://img.youtube.com/vi/CB6RwU04rbE/hqdefault.jpg" width="45%" alt="VisionBinder AI — 5 Second Vision Clip">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://youtu.be/bOjVtrip46g" target="_blank">
-    <img src="https://img.youtube.com/vi/bOjVtrip46g/hqdefault.jpg" width="45%" alt="VisionBinder AI — 10 Second Vision Clip">
+  <a href="https://youtu.be/CB6RwUO4rbE" target="_blank">
+    <img src="https://img.youtube.com/vi/CB6RwUO4rbE/hqdefault.jpg" width="460" alt="VisionBinder AI — 5 Second Vision Clip">
   </a>
 </p>
 
+<p align="center">
+  <a href="https://youtu.be/bOjVtrip46g" target="_blank">
+    <img src="https://img.youtube.com/vi/bOjVtrip46g/hqdefault.jpg" width="460" alt="VisionBinder AI — 10 Second Vision Clip">
+  </a>
+</p>
 ---
 
 ## Why This Matters
