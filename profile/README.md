@@ -1,158 +1,78 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VisionBinder-AI/.github/main/IMG_3709.jpg" width="180" alt="VisionBinder AI Logo">
+</p>
 
-<img src="./assets/logo.jpg" alt="Organization Logo" width="180" style="border-radius: 24px;" />
+# VisionBinder AI
 
-<br />
-<br />
+**Engineering the World's First Applied Intelligence Operating System**
 
-# **Engineering the Foundations of Tomorrow**
-
-*Where architecture meets ambition, and code becomes civilization.*
-
-<br />
-
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Docs](https://img.shields.io/badge/Documentation-1F1F1F?style=for-the-badge&logo=readthedocs&logoColor=white)](#)
-[![Contact](https://img.shields.io/badge/Contact-2D2D2D?style=for-the-badge&logo=maildotru&logoColor=white)](#)
-
-<br />
+A governed City of specialized AI districts built for verifiable execution, sovereign reasoning, and long-term composability.
 
 ---
 
-</div>
+## The City
 
-## About Us
+VisionBinder AI is not another AI platform. It is a **City** — a unified operating system where distinct intelligence districts operate together under strict governance, security, and auditability.
 
-We are a collective of engineers, designers, and systems thinkers building the invisible infrastructure that powers modern life. From distributed systems to AI-native platforms, our work sits at the intersection of **rigor**, **elegance**, and **scale**.
+Each district is purpose-built for high-stakes domains while remaining fully interoperable through a shared orchestration layer.
 
-We don't ship products. We ship **foundations**.
-
-<br />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VisionBinder-AI/.github/main/IMG_3594.JPG" width="100%" alt="VisionBinder AI — Governed City of Intelligence Districts">
+</p>
 
 ---
 
-## The City Architecture
+## Technical Foundations
 
-<div align="center">
+- **Verifiable Execution** — Every critical decision is traceable, auditable, and policy-enforced.
+- **Sovereign Reasoning** — Native support for efficient on-prem and air-gapped models alongside frontier systems.
+- **Zero-Trust Architecture** — Security and governance are core infrastructure, not afterthoughts.
+- **Intelligent Orchestration** — A unified layer that enables agents across districts to collaborate with persistent memory and adaptive reasoning.
 
-<img src="./assets/city-pillars.jpg" alt="The City Architecture — Pillars of our engineering philosophy" width="100%" />
+---
 
-</div>
+## Current Build Status
 
-<br />
+We are in active, deliberate development across multiple pillars simultaneously.
 
-Every great city is held up by pillars — silent, load-bearing, and precisely engineered. Our platform is no different.
+- Core phases of **VoiceForge** (Voice Intelligence & Orchestration) completed
+- Foundational work on **LedgerOS** (Finance & Compliance) complete
+- **Sovereign Intelligence District** in active development
+- Strong focus on production stability, security hardening, and clean cross-pillar integration
 
-We think of our architecture as a **city built to last a century**:
-
-| Pillar | Discipline | Principle |
-| :--- | :--- | :--- |
-| **I. Reliability** | Systems Engineering | If it breaks quietly, we've already failed. |
-| **II. Performance** | Runtime & Compute | Latency is a design choice, not an accident. |
-| **III. Security** | Trust & Identity | Assume breach. Design for zero. |
-| **IV. Developer Experience** | Interfaces & Tooling | Great tools compound over decades. |
-| **V. Composability** | Open Standards | Nothing we build is a dead end. |
-
-These are not values on a wall — they are constraints in every pull request.
-
-<br />
+We prioritize quality, verifiability, and long-term architecture over speed.
 
 ---
 
 ## Vision in Motion
 
-Two short films. Two windows into how we think about building.
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://youtu.be/CB6RwU04rbE">
-        <img src="https://img.youtube.com/vi/CB6RwU04rbE/maxresdefault.jpg" alt="The Signal — 5 second film" width="100%" />
-      </a>
-      <br />
-      <br />
-      <strong>The Signal</strong>
-      <br />
-      <sub>5 seconds · A study in clarity</sub>
-      <br />
-      <br />
-      <a href="https://youtu.be/CB6RwU04rbE">
-        <img src="https://img.shields.io/badge/▶%20Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch The Signal" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://youtu.be/bOjVtrip46g">
-        <img src="https://img.youtube.com/vi/bOjVtrip46g/maxresdefault.jpg" alt="The Blueprint — 10 second film" width="100%" />
-      </a>
-      <br />
-      <br />
-      <strong>The Blueprint</strong>
-      <br />
-      <sub>10 seconds · A meditation on structure</sub>
-      <br />
-      <br />
-      <a href="https://youtu.be/bOjVtrip46g">
-        <img src="https://img.shields.io/badge/▶%20Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch The Blueprint" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br />
+<p align="center">
+  <a href="https://youtu.be/CB6RwU04rbE" target="_blank">
+    <img src="https://img.youtube.com/vi/CB6RwU04rbE/hqdefault.jpg" width="45%" alt="VisionBinder AI — 5 Second Vision Clip">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://youtu.be/bOjVtrip46g" target="_blank">
+    <img src="https://img.youtube.com/vi/bOjVtrip46g/hqdefault.jpg" width="45%" alt="VisionBinder AI — 10 Second Vision Clip">
+  </a>
+</p>
 
 ---
 
-## What We're Building
+## Why This Matters
 
-<table>
-<tr>
-<td width="33%" valign="top">
+Most current AI systems are fragmented, opaque, and difficult to govern at scale.
 
-### Platforms
-Multi-tenant systems, edge networks, and durable runtimes designed to disappear into the background.
-
-</td>
-<td width="33%" valign="top">
-
-### Intelligence
-AI-native workflows, agents, and gateways — with observability and safety as first-class primitives.
-
-</td>
-<td width="33%" valign="top">
-
-### Interfaces
-Developer tools and design systems that make hard things obvious and obvious things fast.
-
-</td>
-</tr>
-</table>
-
-<br />
+VisionBinder exists to change that — by building the infrastructure layer that allows sophisticated, multi-domain AI systems to operate with the same rigor expected from financial or safety-critical systems, while preserving sovereignty and control.
 
 ---
 
-## Working With Us
+## Building With Intention
 
-We open-source the pieces we believe should belong to everyone, and we ship the rest with the same standard of craft.
+This is early-stage, high-ambition infrastructure work. We move carefully, with a strong focus on architecture, security, and long-term composability.
 
-- **Explore our repositories** — start with the pinned projects below.
-- **Read our engineering journal** — decisions, post-mortems, and design notes.
-- **Join the conversation** — issues and discussions are where the real work happens.
-
-<br />
+We are selectively growing a small group of high-caliber engineers who care deeply about building serious, lasting systems.
 
 ---
 
-<div align="center">
-
-<sub>Built with intent. Shipped with care.</sub>
-
-<br />
-
-<sub>© The Organization · Crafted for the next hundred years.</sub>
-
-</div>
+**VisionBinder AI**
+*The Applied Intelligence Operating System*
