@@ -46,20 +46,30 @@ We prioritize quality, verifiability, and long-term architecture over speed.
 
 ## Vision in Motion
 
-## Vision in Motion
-
 <p align="center">
-  <a href="https://youtu.be/CB6RwUO4rbE" target="_blank">
-    <img src="https://img.youtube.com/vi/CB6RwUO4rbE/hqdefault.jpg" width="460" alt="VisionBinder AI — 5 Second Vision Clip">
-  </a>
+  <strong>Short cinematic glimpses into the VisionBinder operating system.</strong>
 </p>
 
-<p align="center">
-  <a href="https://youtu.be/bOjVtrip46g" target="_blank">
-    <img src="https://img.youtube.com/vi/bOjVtrip46g/hqdefault.jpg" width="460" alt="VisionBinder AI — 10 Second Vision Clip">
-  </a>
-</p>
----
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://youtu.be/CB6RwUO4rbE" target="_blank">
+        <img src="https://img.youtube.com/vi/CB6RwUO4rbE/hqdefault.jpg" width="92%" style="border-radius: 8px;" alt="VisionBinder AI — 5 Second Vision">
+      </a>
+      <br><br>
+      <strong>5-Second Vision</strong>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://youtu.be/bOjVtrip46g" target="_blank">
+        <img src="https://img.youtube.com/vi/bOjVtrip46g/hqdefault.jpg" width="92%" style="border-radius: 8px;" alt="VisionBinder AI — 10 Second Vision">
+      </a>
+      <br><br>
+      <strong>10-Second Vision</strong>
+    </td>
+  </tr>
+</table>
 
 ## Why This Matters
 
@@ -71,11 +81,15 @@ VisionBinder exists to change that — by building the infrastructure layer that
 
 ## Building With Intention
 
-This is early-stage, high-ambition infrastructure work. We move carefully, with a strong focus on architecture, security, and long-term composability.
+This is early-stage, high-ambition infrastructure work.
 
-We are selectively growing a small group of high-caliber engineers who care deeply about building serious, lasting systems.
+I am building deliberately, with a strong focus on architecture, security, verifiability, and long-term composability. Quality and clarity come before speed.
+
+I am selectively growing a small group of high-caliber engineers who care deeply about building serious, lasting systems — not just shipping features.
+
+If that resonates, I’d be open to connecting.
 
 ---
 
-**VisionBinder AI**
+**VisionBinder AI**  
 *The Applied Intelligence Operating System*
